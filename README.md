@@ -10,4 +10,4 @@
 - **generated_samples**  
   DSTF-Diffusion generated samples, named as `{attack_type}_{batchID}_{random_seed}.png`.
 
-The code for deployment, model architecture, training, and the checkpoints will be released after the paper is accepted.
+# The full code will be released soon.
