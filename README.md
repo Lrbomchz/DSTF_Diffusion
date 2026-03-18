@@ -1,4 +1,4 @@
-# DSTF_Diffusion
+# Official implementation of DSTF-Diffusion (IEEE SECON 2026).
 ## **DSTF-Diffusion Demo**
 
 - **temporal_stream_examples**  
